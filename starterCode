@@ -1,0 +1,42 @@
+w, h = 3, 3
+Matrix = ??
+Lookup = ??
+
+def main():
+    global Matrix
+    player1 = 'X'
+    player2 = 'O'
+    spacesAvailable = 9
+    isPlayer1 = True
+    isOver = False
+
+
+    while   and  :
+        # Step 1: ask user for input
+       
+        # Step 2: update the board
+       
+        # Step 3: Print the board
+        
+        # Step 4: switch users
+        
+        
+        # Step 5: Check if the Games over
+
+    print("Program Finished")
+    
+    
+def printGameBoard(Matrix):
+
+# Ways to Win
+# 1. 
+# 2.  
+# 3.  
+##Approach 1:  HARD CODE
+##Approach 2:  Loop and row / col check
+##Approach 3:  MATH
+def checkIfPlayerWonGame(Lookup):
+
+
+if __name__ == "__main__":
+    main()
